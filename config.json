@@ -1,0 +1,5 @@
+{
+    "interjections" : "@ChatScriptInstallDir@/LIVEDATA/FRENCH/SUBSTITUTES/interjections.txt",
+    "concepts" : "@ChatScriptInstallDir@/RAWDATA/Bot/concepts.top"
+
+}
